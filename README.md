@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,mysql,html,css,bootstrap,tailwind,git,github,angular,vscode,wordpress" alt="git logo"  />i 
+  <img src="https://skillicons.dev/icons?i=js,py,mysql,html,css,bootstrap,tailwind,git,github,angular,vscode,wordpress" alt="git logo"  />
 </div>
 
 ###
