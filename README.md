@@ -54,7 +54,7 @@
 <div align="center">
   <a href="mailto:albertmunoz131@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /> </a>
   <a href="https://www.linkedin.com/in/albert-muone/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  /> </a>
-  <a href="https://www.facebook.com/profile.php?id=100011032242220" target="_blank" rel="noopener noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AFacebook_icon_2013.svg&psig=AOvVaw1596xLVSBimKWmlYF3JhaS&ust=1674694479284000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPi55p7B4fwCFQAAAAAdAAAAABAE" height="40" alt="linkedin logo"  /> </a>
+  <a href="https://www.facebook.com/profile.php?id=100011032242220" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" height="40" alt="linkedin logo"  /> </a>
  
 </div>
 
